@@ -26,7 +26,7 @@
         <img width=10% src="https://i.postimg.cc/258VF9fP/file-type-light-json-icon-256x256-037f9elb.png">
         <img width=10% src="https://i.postimg.cc/5NCv6rxg/5968313.png">
         <img width=10% src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png">
-        <img width=10% src="https://lucide.dev/framework-logos/js.svg"
+        <img width=10% src="https://lucide.dev/framework-logos/js.svg">
         <img width=10% src="https://lucide.dev/framework-logos/react-native.svg">
       </td>
     </table>
