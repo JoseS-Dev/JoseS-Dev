@@ -28,6 +28,7 @@
         <img width=10% src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png">
         <img width=10% src="https://lucide.dev/framework-logos/js.svg">
         <img width=10% src="https://lucide.dev/framework-logos/react-native.svg">
+        <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
       </td>
     </table>
   </div>
@@ -39,7 +40,6 @@
       </td>
       <td width='70%' align='center'>
         <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
-        <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
         <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
         <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
         <img width=10% src='https://cdn-icons-png.flaticon.com/512/5968/5968332.png'>
