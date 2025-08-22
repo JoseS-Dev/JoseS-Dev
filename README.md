@@ -1,3 +1,4 @@
+[![committers.top badge](https://user-badge.committers.top/venezuela_public/JoséS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoséS-Dev)
 <div>
   <div align='center'>
     <img src='https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif' width='100%' height='350px'>
@@ -9,7 +10,6 @@
       I do so that one day I can become a DevOps developer and web developer.
     </p>
   </div>
-  [![committers.top badge](https://user-badge.committers.top/venezuela_public/JoséS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoséS-Dev)
   <div align='center'>
     <h2>My Skills</h2>
     <table>
