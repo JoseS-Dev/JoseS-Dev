@@ -9,7 +9,7 @@
       I do so that one day I can become a DevOps developer and web developer.
     </p>
   </div>
-  [![committers.top badge](https://user-badge.committers.top/venezuela_public/JoseS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoseS-Dev)
+  
   <div align='center'>
     <h2>My Skills</h2>
     <table>
