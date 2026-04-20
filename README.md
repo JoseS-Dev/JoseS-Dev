@@ -31,7 +31,8 @@
         <img width=10% src="https://lucide.dev/framework-logos/react-native.svg">
         <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
         <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
-         <img width=10% src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png'>
+        <img width=10% src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png'>
+        <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
       </td>
     </table>
   </div>
@@ -42,7 +43,6 @@
         Here are the programming languages ​​and frameworks I'm learning to expand my knowledge in this world.
       </td>
       <td width='70%' align='center'>
-        <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
         <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
         <img width=10% src='https://cdn-icons-png.flaticon.com/512/5968/5968332.png'>
         <img width=10% src='https://img.icons8.com/fluent-systems-filled/512/40C057/nextjs.png'>
