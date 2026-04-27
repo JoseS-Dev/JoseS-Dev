@@ -54,4 +54,3 @@
     <h3>Every line of code is a step toward the solution; don't stop until your idea comes to life.</h3>
   </div>
 </div>
-[![committers.top badge](https://user-badge.committers.top/venezuela_public/JoseS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoseS-Dev)
