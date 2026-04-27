@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/venezuela_public/JoseS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoseS-Dev)
+
 <div>
   <div align='center'>
     <img src='https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif' width='100%' height='350px'>
@@ -54,3 +54,4 @@
     <h3>Every line of code is a step toward the solution; don't stop until your idea comes to life.</h3>
   </div>
 </div>
+[![committers.top badge](https://user-badge.committers.top/venezuela_public/JoseS-Dev.svg)](https://user-badge.committers.top/venezuela_public/JoseS-Dev)
