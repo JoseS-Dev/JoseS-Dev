@@ -33,6 +33,7 @@
         <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
         <img width=10% src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png'>
         <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
+        <img width=10% src="https://camo.githubusercontent.com/57905d6ae7886df360e85d002a84b9be94ff2f229fcbd433467ba84089b778a0/68747470733a2f2f692e6e616d752e77696b692f692f58375250525a4a694c5f62446b2d62357966616543714561494e703369776d376e6756687a4e394c446734684e6a7a3042733351546f37706762436647573378705f73515a784d4755666e78424158474e4677474b772e737667">
       </td>
     </table>
   </div>
