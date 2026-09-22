@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://ar.welovebuzz.com/wp-content/uploads/2018/04/2-2.gif"/>
+  <img width="65%" height="auto" src="https://ar.welovebuzz.com/wp-content/uploads/2018/04/2-2.gif"/>
 </div>
 
 <p align="center">
