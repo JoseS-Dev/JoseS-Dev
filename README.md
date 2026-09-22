@@ -1,56 +1,90 @@
-<div>
-  <div align='center'>
-    <img src='https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif' width='100%' height='350px'>
-    <h1>Jose Angel Santana Ramos</h1>
-  </div>
-  <div align='center'>
-    <p>
-      Hello users, I am passionate about programming and I love this world of programming and all the variety that exists in this world. I have been programming for two years and I love what 
-      I do so that one day I can become a DevOps developer and web developer.
-    </p>
-  </div>
-  <div align='center'>
-    <h2>My Skills</h2>
-    <table>
-      <td width='30%'>
-        My programming skills are varied, here as such I show you the languages ​​and frameworks that I have mastered in these 2 years that I have been programming.
-      </td>
-      <td width='70%' align='center'>
-        <img width=10% src="https://i.postimg.cc/PqLTWJwn/18133.png">
-        <img width=10% src="https://i.postimg.cc/QCq38WR1/python-18894.png">
-        <img width=10% src="https://i.ibb.co/JBWfJH6/figma.png">
-        <img width=10% src="https://i.postimg.cc/B6VHR9gW/free-node-js-logo-icon-download-in-svg-png-gif-file-formats-nodejs-programming-language-pack-logos.png">
-        <img width=10% src="https://i.postimg.cc/yx0hRpFw/5968267.png">
-        <img width=10% src="https://i.postimg.cc/3Nh4s8vc/css3-512.png">
-        <img width=10% src="https://i.postimg.cc/5NCv6rxg/5968313.png">
-        <img width=10% src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png">
-        <img width=10% src="https://lucide.dev/framework-logos/js.svg">
-        <img width=10% src="https://lucide.dev/framework-logos/react-native.svg">
-        <img width=10% src="https://i.ibb.co/p16RYYT/devicon-react.png">
-        <img width=10% src='https://cdn-icons-png.flaticon.com/512/6124/6124995.png'>
-        <img width=10% src="https://i.ibb.co/wdsDvkH/devicon-tailwindcss.png">
-        <img width=10% src="https://camo.githubusercontent.com/e98dd586f182794534abbd3119275641d036a5feb5889c8f0776afe0e747a0e3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667">
-        <img width=10% src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png">
-        <img width=10% src="https://camo.githubusercontent.com/57905d6ae7886df360e85d002a84b9be94ff2f229fcbd433467ba84089b778a0/68747470733a2f2f692e6e616d752e77696b692f692f58375250525a4a694c5f62446b2d62357966616543714561494e703369776d376e6756687a4e394c446734684e6a7a3042733351546f37706762436647573378705f73515a784d4755666e78424158474e4677474b772e737667">
-        <img width=10% src="https://camo.githubusercontent.com/60036380ad9f0f125c3cc960295b6a5132935a47973e871fdbade50dda952854/68747470733a2f2f63646e2e70726f642e776562736974652d66696c65732e636f6d2f3637633063346431393963646232373564336663373438612f3637653137633562656566346132663635613830633235615f4f646f6f2532306c6f676f25323066617669636f6e2532302831292e706e67">
-        <img width=10% src="https://camo.githubusercontent.com/64e7790ec87ef18081623befc8bfed18ecc6c856e27f814d7504ad931b40f3ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
-      </td>
-    </table>
-  </div>
-  <div align='center'>
-    <h2>In process</h2>
-    <table>
-      <td width='30%'>
-        Here are the programming languages ​​and frameworks I'm learning to expand my knowledge in this world.
-      </td>
-      <td width='70%' align='center'>
-        <img width=10% src="https://www.svgrepo.com/show/373446/astro.svg">
-        <img width=10% src='https://cdn-icons-png.flaticon.com/512/5968/5968332.png'>
-        <img width=10% src='https://img.icons8.com/fluent-systems-filled/512/40C057/nextjs.png'>
-      </td>
-    </table>
-  </div>
-  <div align="center">
-    <h3>Every line of code is a step toward the solution; don't stop until your idea comes to life.</h3>
-  </div>
+# *JoseS-Dev*
+
+<img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*GISl7HTCZubx4FSfQi3a-g.gif"/>
+
+## Hi there! 👋
+
+<p align="justify">
+  I'm <strong>José Ángel Santana Ramos</strong> aka <strong>JoseS-Dev</strong>,
+  a <strong>Computer Engineer</strong> and <strong>Full-Stack Developer</strong>
+  passionate about scalable software architecture and business optimization.
+  My goal is to design and implement high-impact solutions that solve complex
+  challenges for enterprise-level organizations, driving my ambition to become a
+  globally recognized software engineer.
+</p>
+
+## 🛠 Tech Stack
+<div align="center">
+  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+  ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) 
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+  ![Allure](https://img.shields.io/badge/Allure_Report-FF7300?style=for-the-badge&logo=qameta&logoColor=white) 
+  ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 </div>
+
+
+# 🎯 Goals
+
+<p align="justify">
+  Currently, I am expanding my technical skills by learning <strong>.NET (C#)</strong> and <strong>Laravel (PHP)</strong>. 
+  I am particularly drawn to these frameworks for their <strong>strong typing</strong> and <strong>robust architectural patterns</strong>, 
+  which allow me to broaden my knowledge, adopt new paradigms, and continuously improve as a software engineer.
+</p>
+
+<div align="center">
+
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  
+</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JoseS-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JoseS-Dev Github Stats" height="auto" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoseS-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="auto" />
+</p>
+
+## 📫 Connect with Me
+
+<p align="justify">
+  I'm always open to discussing software architecture, Odoo implementations, enterprise projects, or potential collaborations. Feel free to reach out through any of the platforms below!
+</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-angel-santana-ramos-539b51348)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseasantana05@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://portafolio-jose-s-dev.vercel.app)
+
+</div>
+
+<div align="center">
+  <img width="100%" height="auto" src="https://ar.welovebuzz.com/wp-content/uploads/2018/04/2-2.gif"/>
+</div>
+
+<p align="center">
+  💡 <i>"Every line of code is a step toward the solution; don't stop until your idea comes to life."</i>
+</p>
+
+
